@@ -1,46 +1,16 @@
-geojson.io
-powered by
-Sign up for Mapbox
-StandardSatellite StreetsOutdoorsLightDarkOSMGlobeMercator
-Search
-
-
-
-© Mapbox © OpenStreetMap Improve this map
- JSON
- Table
- Help
-1
 {
-2
   "type": "FeatureCollection",
-3
   "features": [
-4
     {
-5
       "type": "Feature",
-6
       "properties": {},
-7
       "geometry": {
-8
         "coordinates": [
-9
           107.67876883664644,
-10
           16.39315828422599
-11
         ],
-12
         "type": "Point"
-13
       }
-14
     }
-15
   ]
-16
 }
-Copied!
-OpenSaveNewMeta
